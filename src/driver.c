@@ -176,7 +176,7 @@ static void __exit osAss2Driver_exit(void) {
         wake_up(&wait_queue_driver);
     }
     else {
-        printk(KERN_INFO "User:%s\tFailed to complete the actions in time\n", kernel_buffer);
+        printk(KERN_INFO "Failed to complete the actions in time\n");
 
     }
 
