@@ -1,0 +1,1 @@
+savedcmd_/home/th3bosscvm/Desktop/OsAss2/src/driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/th3bosscvm/Desktop/OsAss2/src/driver.ko /home/th3bosscvm/Desktop/OsAss2/src/driver.o /home/th3bosscvm/Desktop/OsAss2/src/driver.mod.o;  make -f ./arch/x86/Makefile.postlink /home/th3bosscvm/Desktop/OsAss2/src/driver.ko

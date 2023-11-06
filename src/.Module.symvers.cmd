@@ -1,0 +1,1 @@
+savedcmd_/home/th3bosscvm/Desktop/OsAss2/src/Module.symvers :=  scripts/mod/modpost -m       -o /home/th3bosscvm/Desktop/OsAss2/src/Module.symvers -T /home/th3bosscvm/Desktop/OsAss2/src/modules.order -i Module.symvers -e 
